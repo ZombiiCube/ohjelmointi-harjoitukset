@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(13, 50, 168);
+    padding-left: 60px;
+    padding-top: 15px;
+}
+
+:any-link:hover{
+    color: orange;
+}
+
+a {
+    color: white;
+    text-decoration:underline;
+}
+
+.otsikko{
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 60px;
+    color: white;
+    text-decoration:underline;
+}
+
+.otsikko-ala{
+    color: chartreuse;
+    text-decoration:underline;
+}
+
+
+.lista{
+    color: pink;
+}
